@@ -1,0 +1,1 @@
+const SAFE_AREA_DESCRIPTION = "A widget that insets its child by sufficient padding to avoid intrusions by the operating system.";
