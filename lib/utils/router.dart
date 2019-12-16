@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_widgets_examples/animated_container_widget/animated_container_page.dart';
 import 'package:flutter_widgets_examples/expanded_widget/expanded_page.dart';
 import 'package:flutter_widgets_examples/home_page.dart';
 import 'package:flutter_widgets_examples/safearea_widget/safearea_page.dart';
@@ -16,6 +17,8 @@ Route<dynamic> generateRoute(RouteSettings settings) {
       return MaterialPageRoute(builder: (context) => ExpandedPage());
     case WRAP_ROUTE:
       return MaterialPageRoute(builder: (context) => WrapPage());
+    case ANIMATED_CONTAINER_ROUTE:
+      return MaterialPageRoute(builder: (context) => AnimatedContainerPage());
     default:
       return MaterialPageRoute(builder: (context) => HomePage());
   }

@@ -11,5 +11,6 @@ class RoutingUtils {
     RoutingModel("SafeArea", SAFE_AREA_ROUTE, SAFE_AREA_DESCRIPTION),
     RoutingModel("Expanded", EXPANDED_ROUTE, EXPANDED_DESCRIPTION),
     RoutingModel("Wrap", WRAP_ROUTE, WRAP_DESCRIPTION),
+    RoutingModel("Animated Container", ANIMATED_CONTAINER_ROUTE, ANIMATED_CONTAINER_DESCRIPTION),
   ];
 }
