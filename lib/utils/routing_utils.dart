@@ -10,5 +10,6 @@ class RoutingUtils {
   static List<RoutingModel> widgetRouteList = [
     RoutingModel("SafeArea", SAFE_AREA_ROUTE, SAFE_AREA_DESCRIPTION),
     RoutingModel("Expanded", EXPANDED_ROUTE, EXPANDED_DESCRIPTION),
+    RoutingModel("Wrap", WRAP_ROUTE, WRAP_DESCRIPTION),
   ];
 }

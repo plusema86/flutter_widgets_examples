@@ -4,6 +4,7 @@ import 'package:flutter_widgets_examples/expanded_widget/expanded_page.dart';
 import 'package:flutter_widgets_examples/home_page.dart';
 import 'package:flutter_widgets_examples/safearea_widget/safearea_page.dart';
 import 'package:flutter_widgets_examples/utils/routing_constants.dart';
+import 'package:flutter_widgets_examples/wrap_widget/wrap_page.dart';
 
 Route<dynamic> generateRoute(RouteSettings settings) {
   switch (settings.name) {
@@ -13,6 +14,8 @@ Route<dynamic> generateRoute(RouteSettings settings) {
       return MaterialPageRoute(builder: (context) => SafeAreaPage());
     case EXPANDED_ROUTE:
       return MaterialPageRoute(builder: (context) => ExpandedPage());
+    case WRAP_ROUTE:
+      return MaterialPageRoute(builder: (context) => WrapPage());
     default:
       return MaterialPageRoute(builder: (context) => HomePage());
   }
