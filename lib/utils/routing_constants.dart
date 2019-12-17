@@ -5,3 +5,4 @@ const String WRAP_ROUTE = 'wrap';
 const String ANIMATED_CONTAINER_ROUTE = 'animated_container';
 const String OPACITY_ROUTE = 'opacity';
 const String FUTURE_BUILDER_ROUTE = 'future_builder';
+const String FADE_TRANSITION_ROUTE = 'fade_transition';
