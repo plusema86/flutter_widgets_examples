@@ -54,9 +54,18 @@ class HomePageItemWidget extends StatelessWidget {
       },
       child: Container(
         child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
-            Text("$title"),
-            Text("$description"),
+            Container(
+              margin:
+                  EdgeInsets.only(left: 8.0, right: 8.0, top: 8.0, bottom: 4.0),
+              child: Text("$title",style: TextStyle(fontSize: 19.0,fontWeight: FontWeight.w600),),
+            ),
+            Container(
+              margin:
+              EdgeInsets.only(left: 8.0, right: 8.0, top: 0.0, bottom: 8.0),
+              child: Text("$description",style: TextStyle(fontSize: 17.0),),
+            ),
           ],
         ),
       ),

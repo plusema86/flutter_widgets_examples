@@ -5,3 +5,4 @@ const ANIMATED_CONTAINER_DESCRIPTION = "Animated version of Container that gradu
 const OPACITY_DESCRIPTION = "A widget that makes its child partially transparent.";
 const FUTURE_BUILDER_DESCRIPTION = "Widget that builds itself based on the latest snapshot of interaction with a Future.";
 const FADE_TRANSITION_DESCRIPTION = "Animates the opacity of a widget.";
+const FLOATING_ACTION_BUTTON_DESCRIPTION = "A material design floating action button.";

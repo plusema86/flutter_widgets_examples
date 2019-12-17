@@ -15,5 +15,6 @@ class RoutingUtils {
     RoutingModel("Opacity", OPACITY_ROUTE, OPACITY_DESCRIPTION),
     RoutingModel("FutureBuilder", FUTURE_BUILDER_ROUTE, FUTURE_BUILDER_DESCRIPTION),
     RoutingModel("FadeTransition", FADE_TRANSITION_ROUTE, FADE_TRANSITION_DESCRIPTION),
+    RoutingModel("FloatingActionButton", FLOATING_ACTION_BUTTON_ROUTE, FLOATING_ACTION_BUTTON_DESCRIPTION),
   ];
 }

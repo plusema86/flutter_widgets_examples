@@ -6,3 +6,4 @@ const String ANIMATED_CONTAINER_ROUTE = 'animated_container';
 const String OPACITY_ROUTE = 'opacity';
 const String FUTURE_BUILDER_ROUTE = 'future_builder';
 const String FADE_TRANSITION_ROUTE = 'fade_transition';
+const String FLOATING_ACTION_BUTTON_ROUTE = 'floating_action_button';

@@ -11,3 +11,4 @@ Example of the various widgets of Flutter, following for the moment the order of
 *  Opacity [Video](https://youtu.be/9hltevOHQBw) [Docs](https://api.flutter.dev/flutter/widgets/Opacity-class.html)
 *  FutureBuilder [Video](https://youtu.be/ek8ZPdWj4Qo) [Docs](https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html)
 *  FadeTransition [Video](https://youtu.be/rLwWVbv3xDQ) [Docs](https://api.flutter.dev/flutter/widgets/FadeTransition-class.html)
+*  FloatingActionButton [Video](https://youtu.be/2uaoEDOgk_I) [Docs](https://api.flutter.dev/flutter/material/FloatingActionButton-class.html)
