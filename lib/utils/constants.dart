@@ -2,3 +2,4 @@ const SAFE_AREA_DESCRIPTION = "A widget that insets its child by sufficient padd
 const EXPANDED_DESCRIPTION = "A widget that expands a child of a Row, Column, or Flex so that the child fills the available space.";
 const WRAP_DESCRIPTION = "A widget that displays its children in multiple horizontal or vertical runs.";
 const ANIMATED_CONTAINER_DESCRIPTION = "Animated version of Container that gradually changes its values over a period of time.";
+const OPACITY_DESCRIPTION = "A widget that makes its child partially transparent.";
