@@ -9,3 +9,4 @@ Example of the various widgets of Flutter, following for the moment the order of
 *  Wrap [Video](https://youtu.be/z5iw2SeFx2M) [Docs](https://api.flutter.dev/flutter/widgets/Wrap-class.html)
 *  Animated Container [Video](https://youtu.be/yI-8QHpGIP4) [Docs](https://api.flutter.dev/flutter/widgets/AnimatedContainer-class.html)
 *  Opacity [Video](https://youtu.be/9hltevOHQBw) [Docs](https://api.flutter.dev/flutter/widgets/Opacity-class.html)
+*  FutureBuilder [Video](https://youtu.be/ek8ZPdWj4Qo) [Docs](https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html)

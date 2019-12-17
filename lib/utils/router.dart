@@ -2,6 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_widgets_examples/animated_container_widget/animated_container_page.dart';
 import 'package:flutter_widgets_examples/expanded_widget/expanded_page.dart';
+import 'package:flutter_widgets_examples/future_builder_widget/future_builder_page.dart';
 import 'package:flutter_widgets_examples/home_page.dart';
 import 'package:flutter_widgets_examples/opacity_widget/opacity_page.dart';
 import 'package:flutter_widgets_examples/safearea_widget/safearea_page.dart';
@@ -22,6 +23,8 @@ Route<dynamic> generateRoute(RouteSettings settings) {
       return MaterialPageRoute(builder: (context) => AnimatedContainerPage());
     case OPACITY_ROUTE:
       return MaterialPageRoute(builder: (context) => OpacityPage());
+    case FUTURE_BUILDER_ROUTE:
+      return MaterialPageRoute(builder: (context) => FutureBuilderPage());
     default:
       return MaterialPageRoute(builder: (context) => HomePage());
   }

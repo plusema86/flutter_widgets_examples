@@ -13,5 +13,6 @@ class RoutingUtils {
     RoutingModel("Wrap", WRAP_ROUTE, WRAP_DESCRIPTION),
     RoutingModel("Animated Container", ANIMATED_CONTAINER_ROUTE, ANIMATED_CONTAINER_DESCRIPTION),
     RoutingModel("Opacity", OPACITY_ROUTE, OPACITY_DESCRIPTION),
+    RoutingModel("FutureBuilder", FUTURE_BUILDER_ROUTE, FUTURE_BUILDER_DESCRIPTION),
   ];
 }
