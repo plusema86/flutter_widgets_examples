@@ -7,6 +7,7 @@ import 'package:flutter_widgets_examples/floating_action_button_widget/floating_
 import 'package:flutter_widgets_examples/future_builder_widget/future_builder_page.dart';
 import 'package:flutter_widgets_examples/home_page.dart';
 import 'package:flutter_widgets_examples/opacity_widget/opacity_page.dart';
+import 'package:flutter_widgets_examples/page_view_widget/page_view_page.dart';
 import 'package:flutter_widgets_examples/safearea_widget/safearea_page.dart';
 import 'package:flutter_widgets_examples/utils/routing_constants.dart';
 import 'package:flutter_widgets_examples/wrap_widget/wrap_page.dart';
@@ -30,8 +31,9 @@ Route<dynamic> generateRoute(RouteSettings settings) {
     case FADE_TRANSITION_ROUTE:
       return MaterialPageRoute(builder: (context) => FadeTransitionPage());
     case FLOATING_ACTION_BUTTON_ROUTE:
-      return MaterialPageRoute(
-          builder: (context) => FloatingActionButtonPage());
+      return MaterialPageRoute(builder: (context) => FloatingActionButtonPage());
+    case PAGE_VIEW_ROUTE:
+      return MaterialPageRoute(builder: (context) => PageViewPage());
     default:
       return MaterialPageRoute(builder: (context) => HomePage());
   }
