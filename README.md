@@ -14,3 +14,4 @@ Example of the various widgets of Flutter, following for the moment the order of
 *  FloatingActionButton [Video](https://youtu.be/2uaoEDOgk_I) [Docs](https://api.flutter.dev/flutter/material/FloatingActionButton-class.html)
 *  PageView [Video](https://youtu.be/J1gE9xvph-A) [Docs](https://api.flutter.dev/flutter/widgets/PageView-class.html)
 *  Table [Video](https://youtu.be/_lbE0wsVZSw) [Docs](https://api.flutter.dev/flutter/widgets/Table-class.html)
+*  SliverAppBar [Video](https://youtu.be/R9C5KMJKluE) [Docs](https://api.flutter.dev/flutter/material/SliverAppBar-class.html)

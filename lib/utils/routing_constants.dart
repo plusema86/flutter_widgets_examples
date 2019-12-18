@@ -9,3 +9,4 @@ const String FADE_TRANSITION_ROUTE = 'fade_transition';
 const String FLOATING_ACTION_BUTTON_ROUTE = 'floating_action_button';
 const String PAGE_VIEW_ROUTE = 'page_view_route';
 const String TABLE_ROUTE = 'table_route';
+const String SLIVER_APP_BAR_ROUTE = 'sliver_app_bar';
