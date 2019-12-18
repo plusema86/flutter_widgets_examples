@@ -10,6 +10,7 @@ import 'package:flutter_widgets_examples/opacity_widget/opacity_page.dart';
 import 'package:flutter_widgets_examples/page_view_widget/page_view_page.dart';
 import 'package:flutter_widgets_examples/safearea_widget/safearea_page.dart';
 import 'package:flutter_widgets_examples/sliver_app_bar_widget/sliver_app_bar_page.dart';
+import 'package:flutter_widgets_examples/sliver_list_sliver_grid_widget/sliver_list_sliver_grid_page.dart';
 import 'package:flutter_widgets_examples/table_widget/table_page.dart';
 import 'package:flutter_widgets_examples/utils/routing_constants.dart';
 import 'package:flutter_widgets_examples/wrap_widget/wrap_page.dart';
@@ -41,6 +42,9 @@ Route<dynamic> generateRoute(RouteSettings settings) {
       return MaterialPageRoute(builder: (context) => TablePage());
     case SLIVER_APP_BAR_ROUTE:
       return MaterialPageRoute(builder: (context) => SliverAppBarPage());
+    case SLIVER_LIST_AND_SLIVER_GRID_ROUTE:
+      return MaterialPageRoute(
+          builder: (context) => SliverListSliverGridPage());
     default:
       return MaterialPageRoute(builder: (context) => HomePage());
   }

@@ -10,3 +10,4 @@ const String FLOATING_ACTION_BUTTON_ROUTE = 'floating_action_button';
 const String PAGE_VIEW_ROUTE = 'page_view_route';
 const String TABLE_ROUTE = 'table_route';
 const String SLIVER_APP_BAR_ROUTE = 'sliver_app_bar';
+const String SLIVER_LIST_AND_SLIVER_GRID_ROUTE = 'sliver_list_sliver_grid';

@@ -19,5 +19,6 @@ class RoutingUtils {
     RoutingModel("PageView",PAGE_VIEW_ROUTE, PAGE_VIEW_DESCRIPTION),
     RoutingModel("Table", TABLE_ROUTE, TABLE_DESCRIPTION),
     RoutingModel("SliverAppBar", SLIVER_APP_BAR_ROUTE, SLIVER_APP_BAR_DESCRIPTION),
+    RoutingModel("SliverList and SliverGrid", SLIVER_LIST_AND_SLIVER_GRID_ROUTE, SLIVER_LIST_SLIVER_GRID_DESCRIPTION),
   ];
 }

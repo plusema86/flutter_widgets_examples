@@ -15,3 +15,4 @@ Example of the various widgets of Flutter, following for the moment the order of
 *  PageView [Video](https://youtu.be/J1gE9xvph-A) [Docs](https://api.flutter.dev/flutter/widgets/PageView-class.html)
 *  Table [Video](https://youtu.be/_lbE0wsVZSw) [Docs](https://api.flutter.dev/flutter/widgets/Table-class.html)
 *  SliverAppBar [Video](https://youtu.be/R9C5KMJKluE) [Docs](https://api.flutter.dev/flutter/material/SliverAppBar-class.html)
+*  SliverList and SliverGrid [Video](https://youtu.be/ORiTTaVY6mM) [SliverList Docs](https://api.flutter.dev/flutter/widgets/SliverList-class.html) [SliverGrid Docs](https://api.flutter.dev/flutter/widgets/SliverGrid-class.html)

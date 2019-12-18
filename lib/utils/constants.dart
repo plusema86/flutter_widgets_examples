@@ -9,3 +9,4 @@ const FLOATING_ACTION_BUTTON_DESCRIPTION = "A material design floating action bu
 const PAGE_VIEW_DESCRIPTION = "A scrollable list that works page by page.\nEach child of a page view is forced to be the same size as the viewport.";
 const TABLE_DESCRIPTION = "A widget that uses the table layout algorithm for its children.";
 const SLIVER_APP_BAR_DESCRIPTION = "A material design app bar that integrates with a CustomScrollView.";
+const SLIVER_LIST_SLIVER_GRID_DESCRIPTION = "SliverList: A sliver that places multiple box children in a linear array along the main axis.\nSliverGrid: A sliver that places multiple box children in a two dimensional arrangement.";
