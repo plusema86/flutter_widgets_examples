@@ -13,3 +13,4 @@ Example of the various widgets of Flutter, following for the moment the order of
 *  FadeTransition [Video](https://youtu.be/rLwWVbv3xDQ) [Docs](https://api.flutter.dev/flutter/widgets/FadeTransition-class.html)
 *  FloatingActionButton [Video](https://youtu.be/2uaoEDOgk_I) [Docs](https://api.flutter.dev/flutter/material/FloatingActionButton-class.html)
 *  PageView [Video](https://youtu.be/J1gE9xvph-A) [Docs](https://api.flutter.dev/flutter/widgets/PageView-class.html)
+*  Table [Video](https://youtu.be/_lbE0wsVZSw) [Docs](https://api.flutter.dev/flutter/widgets/Table-class.html)

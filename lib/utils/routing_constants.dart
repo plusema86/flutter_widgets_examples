@@ -8,3 +8,4 @@ const String FUTURE_BUILDER_ROUTE = 'future_builder';
 const String FADE_TRANSITION_ROUTE = 'fade_transition';
 const String FLOATING_ACTION_BUTTON_ROUTE = 'floating_action_button';
 const String PAGE_VIEW_ROUTE = 'page_view_route';
+const String TABLE_ROUTE = 'table_route';

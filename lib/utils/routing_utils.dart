@@ -17,5 +17,6 @@ class RoutingUtils {
     RoutingModel("FadeTransition", FADE_TRANSITION_ROUTE, FADE_TRANSITION_DESCRIPTION),
     RoutingModel("FloatingActionButton", FLOATING_ACTION_BUTTON_ROUTE, FLOATING_ACTION_BUTTON_DESCRIPTION),
     RoutingModel("PageView",PAGE_VIEW_ROUTE, PAGE_VIEW_DESCRIPTION),
+    RoutingModel("Table", TABLE_ROUTE, TABLE_DESCRIPTION),
   ];
 }

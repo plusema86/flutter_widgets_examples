@@ -7,3 +7,4 @@ const FUTURE_BUILDER_DESCRIPTION = "Widget that builds itself based on the lates
 const FADE_TRANSITION_DESCRIPTION = "Animates the opacity of a widget.";
 const FLOATING_ACTION_BUTTON_DESCRIPTION = "A material design floating action button.";
 const PAGE_VIEW_DESCRIPTION = "A scrollable list that works page by page.\nEach child of a page view is forced to be the same size as the viewport.";
+const TABLE_DESCRIPTION = "A widget that uses the table layout algorithm for its children.";
