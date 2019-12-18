@@ -23,8 +23,10 @@ class _SliverAppBarPageState extends State<SliverAppBarPage> {
                 snap: snapOn,
                 expandedHeight: 150.0,
                 flexibleSpace: FlexibleSpaceBar(
-                  title: Text("SliverAppBar Widget"),
-                ),
+                    title: Text("SliverAppBar Widget"),
+                    background: Image(
+                        fit: BoxFit.fitWidth,
+                        image: AssetImage('assets/images/foresta.jpg'))),
               ),
               SliverFixedExtentList(
                 itemExtent: 50.0,
