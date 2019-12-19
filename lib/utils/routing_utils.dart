@@ -20,5 +20,6 @@ class RoutingUtils {
     RoutingModel("Table", TABLE_ROUTE, TABLE_DESCRIPTION),
     RoutingModel("SliverAppBar", SLIVER_APP_BAR_ROUTE, SLIVER_APP_BAR_DESCRIPTION),
     RoutingModel("SliverList and SliverGrid", SLIVER_LIST_AND_SLIVER_GRID_ROUTE, SLIVER_LIST_SLIVER_GRID_DESCRIPTION),
+    RoutingModel("FadeInImage", FADE_IN_IMAGE_ROUTE, FADE_IN_IMAGE_DESCRIPTION),
   ];
 }

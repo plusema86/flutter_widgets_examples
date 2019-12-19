@@ -2,6 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_widgets_examples/animated_container_widget/animated_container_page.dart';
 import 'package:flutter_widgets_examples/expanded_widget/expanded_page.dart';
+import 'package:flutter_widgets_examples/fade_in_image_widget/fade_in_image_widget.dart';
 import 'package:flutter_widgets_examples/fade_transition_widget/fade_transition_page.dart';
 import 'package:flutter_widgets_examples/floating_action_button_widget/floating_action_button_page.dart';
 import 'package:flutter_widgets_examples/future_builder_widget/future_builder_page.dart';
@@ -45,6 +46,8 @@ Route<dynamic> generateRoute(RouteSettings settings) {
     case SLIVER_LIST_AND_SLIVER_GRID_ROUTE:
       return MaterialPageRoute(
           builder: (context) => SliverListSliverGridPage());
+    case FADE_IN_IMAGE_ROUTE:
+      return MaterialPageRoute(builder: (context) => FadeInImagePage());
     default:
       return MaterialPageRoute(builder: (context) => HomePage());
   }
