@@ -17,3 +17,4 @@ Example of the various widgets of Flutter, following for the moment the order of
 *  SliverAppBar [Video](https://youtu.be/R9C5KMJKluE) [Docs](https://api.flutter.dev/flutter/material/SliverAppBar-class.html)
 *  SliverList and SliverGrid [Video](https://youtu.be/ORiTTaVY6mM) [SliverList Docs](https://api.flutter.dev/flutter/widgets/SliverList-class.html) [SliverGrid Docs](https://api.flutter.dev/flutter/widgets/SliverGrid-class.html)
 *  FadeInImage [Video](https://youtu.be/pK738Pg9cxc) [Docs](https://api.flutter.dev/flutter/widgets/FadeInImage-class.html) [Cookbook example](https://flutter.dev/docs/cookbook/images/fading-in-images)
+*  StreamBuilder [Video](https://youtu.be/MkKEWHfy99Y) [Docs](https://api.flutter.dev/flutter/widgets/StreamBuilder-class.html)

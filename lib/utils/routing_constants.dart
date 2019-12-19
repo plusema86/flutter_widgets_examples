@@ -12,3 +12,4 @@ const String TABLE_ROUTE = 'table_route';
 const String SLIVER_APP_BAR_ROUTE = 'sliver_app_bar';
 const String SLIVER_LIST_AND_SLIVER_GRID_ROUTE = 'sliver_list_sliver_grid';
 const String FADE_IN_IMAGE_ROUTE = 'fade_in_image';
+const String STREAM_BUILDER_ROUTE = 'stream_builder';
