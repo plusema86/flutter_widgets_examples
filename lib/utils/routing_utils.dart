@@ -24,5 +24,6 @@ class RoutingUtils {
     RoutingModel("StreamBuilder", STREAM_BUILDER_ROUTE, STREAM_BUILDER_DESCRIPTION),
     RoutingModel("InheritedModel", INHERITED_MODEL_ROUTE, INHERITED_MODEL_DESCRIPTION),
     RoutingModel("ClipRRect", CLIP_R_RECT_ROUTE, CLIP_R_RECT_DESCRIPTION),
+    RoutingModel("Hero", HERO_ROUTE, HERO_DESCRIPTION),
   ];
 }

@@ -14,3 +14,4 @@ const FADE_IN_IMAGE_DESCRIPTION = "An image that shows a placeholder image while
 const STREAM_BUILDER_DESCRIPTION = "Widget that builds itself based on the latest snapshot of interaction with a Stream.";
 const INHERITED_MODEL_DESCRIPTION = "An InheritedWidget that's intended to be used as the base class for models whose dependents may only depend on one part or \"aspect\" of the overall model.";
 const CLIP_R_RECT_DESCRIPTION = "A widget that clips its child using a rounded rectangle.";
+const HERO_DESCRIPTION = "A widget that marks its child as being a candidate for hero animations.";

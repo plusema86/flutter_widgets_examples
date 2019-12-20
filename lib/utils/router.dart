@@ -7,6 +7,7 @@ import 'package:flutter_widgets_examples/fade_in_image_widget/fade_in_image_widg
 import 'package:flutter_widgets_examples/fade_transition_widget/fade_transition_page.dart';
 import 'package:flutter_widgets_examples/floating_action_button_widget/floating_action_button_page.dart';
 import 'package:flutter_widgets_examples/future_builder_widget/future_builder_page.dart';
+import 'package:flutter_widgets_examples/hero_widget/hero_page.dart';
 import 'package:flutter_widgets_examples/home_page.dart';
 import 'package:flutter_widgets_examples/inherited_widget/inherited_model_page.dart';
 import 'package:flutter_widgets_examples/opacity_widget/opacity_page.dart';
@@ -57,6 +58,8 @@ Route<dynamic> generateRoute(RouteSettings settings) {
       return MaterialPageRoute(builder: (context) => InheritedModelPage());
     case CLIP_R_RECT_ROUTE:
       return MaterialPageRoute(builder: (context) => ClipRRectPage());
+    case HERO_ROUTE:
+      return MaterialPageRoute(builder: (context) => HeroPage());
     default:
       return MaterialPageRoute(builder: (context) => HomePage());
   }
