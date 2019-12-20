@@ -23,5 +23,6 @@ class RoutingUtils {
     RoutingModel("FadeInImage", FADE_IN_IMAGE_ROUTE, FADE_IN_IMAGE_DESCRIPTION),
     RoutingModel("StreamBuilder", STREAM_BUILDER_ROUTE, STREAM_BUILDER_DESCRIPTION),
     RoutingModel("InheritedModel", INHERITED_MODEL_ROUTE, INHERITED_MODEL_DESCRIPTION),
+    RoutingModel("ClipRRect", CLIP_R_RECT_ROUTE, CLIP_R_RECT_DESCRIPTION),
   ];
 }

@@ -14,3 +14,4 @@ const String SLIVER_LIST_AND_SLIVER_GRID_ROUTE = 'sliver_list_sliver_grid';
 const String FADE_IN_IMAGE_ROUTE = 'fade_in_image';
 const String STREAM_BUILDER_ROUTE = 'stream_builder';
 const String INHERITED_MODEL_ROUTE = 'inherited_model';
+const String CLIP_R_RECT_ROUTE = 'clip_r_rect';

@@ -19,3 +19,4 @@ Example of the various widgets of Flutter, following for the moment the order of
 *  FadeInImage [Video](https://youtu.be/pK738Pg9cxc) [Docs](https://api.flutter.dev/flutter/widgets/FadeInImage-class.html) [Cookbook example](https://flutter.dev/docs/cookbook/images/fading-in-images)
 *  StreamBuilder [Video](https://youtu.be/MkKEWHfy99Y) [Docs](https://api.flutter.dev/flutter/widgets/StreamBuilder-class.html)
 *  InheritedModel [Video](https://youtu.be/ml5uefGgkaA) [Docs](https://api.flutter.dev/flutter/widgets/InheritedModel-class.html)
+*  ClipRRect [Video](https://youtu.be/eI43jkQkrvs) [Docs](https://api.flutter.dev/flutter/widgets/ClipRRect-class.html)
