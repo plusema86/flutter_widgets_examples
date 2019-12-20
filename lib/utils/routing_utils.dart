@@ -22,5 +22,6 @@ class RoutingUtils {
     RoutingModel("SliverList and SliverGrid", SLIVER_LIST_AND_SLIVER_GRID_ROUTE, SLIVER_LIST_SLIVER_GRID_DESCRIPTION),
     RoutingModel("FadeInImage", FADE_IN_IMAGE_ROUTE, FADE_IN_IMAGE_DESCRIPTION),
     RoutingModel("StreamBuilder", STREAM_BUILDER_ROUTE, STREAM_BUILDER_DESCRIPTION),
+    RoutingModel("InheritedModel", INHERITED_MODEL_ROUTE, INHERITED_MODEL_DESCRIPTION),
   ];
 }

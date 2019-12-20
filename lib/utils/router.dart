@@ -7,6 +7,7 @@ import 'package:flutter_widgets_examples/fade_transition_widget/fade_transition_
 import 'package:flutter_widgets_examples/floating_action_button_widget/floating_action_button_page.dart';
 import 'package:flutter_widgets_examples/future_builder_widget/future_builder_page.dart';
 import 'package:flutter_widgets_examples/home_page.dart';
+import 'package:flutter_widgets_examples/inherited_widget/inherited_model_page.dart';
 import 'package:flutter_widgets_examples/opacity_widget/opacity_page.dart';
 import 'package:flutter_widgets_examples/page_view_widget/page_view_page.dart';
 import 'package:flutter_widgets_examples/safearea_widget/safearea_page.dart';
@@ -51,6 +52,8 @@ Route<dynamic> generateRoute(RouteSettings settings) {
       return MaterialPageRoute(builder: (context) => FadeInImagePage());
     case STREAM_BUILDER_ROUTE:
       return MaterialPageRoute(builder: (context) => StreamBuilderPage());
+    case INHERITED_MODEL_ROUTE:
+      return MaterialPageRoute(builder: (context) => InheritedModelPage());
     default:
       return MaterialPageRoute(builder: (context) => HomePage());
   }

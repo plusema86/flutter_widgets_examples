@@ -12,3 +12,4 @@ const SLIVER_APP_BAR_DESCRIPTION = "A material design app bar that integrates wi
 const SLIVER_LIST_SLIVER_GRID_DESCRIPTION = "SliverList: A sliver that places multiple box children in a linear array along the main axis.\nSliverGrid: A sliver that places multiple box children in a two dimensional arrangement.";
 const FADE_IN_IMAGE_DESCRIPTION = "An image that shows a placeholder image while the target image is loading, then fades in the new image when it loads.";
 const STREAM_BUILDER_DESCRIPTION = "Widget that builds itself based on the latest snapshot of interaction with a Stream.";
+const INHERITED_MODEL_DESCRIPTION = "An InheritedWidget that's intended to be used as the base class for models whose dependents may only depend on one part or \"aspect\" of the overall model.";
