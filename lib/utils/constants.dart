@@ -15,3 +15,4 @@ const STREAM_BUILDER_DESCRIPTION = "Widget that builds itself based on the lates
 const INHERITED_MODEL_DESCRIPTION = "An InheritedWidget that's intended to be used as the base class for models whose dependents may only depend on one part or \"aspect\" of the overall model.";
 const CLIP_R_RECT_DESCRIPTION = "A widget that clips its child using a rounded rectangle.";
 const HERO_DESCRIPTION = "A widget that marks its child as being a candidate for hero animations.";
+const CUSTOM_PAINT_DESCRIPTION = "A widget that provides a canvas on which to draw during the paint phase.";

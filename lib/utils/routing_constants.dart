@@ -16,3 +16,4 @@ const String STREAM_BUILDER_ROUTE = 'stream_builder';
 const String INHERITED_MODEL_ROUTE = 'inherited_model';
 const String CLIP_R_RECT_ROUTE = 'clip_r_rect';
 const String HERO_ROUTE = 'hero';
+const String CUSTOM_PAINT_ROUTE = 'custom_paint';

@@ -25,5 +25,6 @@ class RoutingUtils {
     RoutingModel("InheritedModel", INHERITED_MODEL_ROUTE, INHERITED_MODEL_DESCRIPTION),
     RoutingModel("ClipRRect", CLIP_R_RECT_ROUTE, CLIP_R_RECT_DESCRIPTION),
     RoutingModel("Hero", HERO_ROUTE, HERO_DESCRIPTION),
+    RoutingModel("CustomPaint", CUSTOM_PAINT_ROUTE, CUSTOM_PAINT_DESCRIPTION),
   ];
 }

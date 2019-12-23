@@ -2,6 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_widgets_examples/animated_container_widget/animated_container_page.dart';
 import 'package:flutter_widgets_examples/clip_rect_widget/clip_r_rect_page.dart';
+import 'package:flutter_widgets_examples/custom_paint_widget/custom_paint_page.dart';
 import 'package:flutter_widgets_examples/expanded_widget/expanded_page.dart';
 import 'package:flutter_widgets_examples/fade_in_image_widget/fade_in_image_widget.dart';
 import 'package:flutter_widgets_examples/fade_transition_widget/fade_transition_page.dart';
@@ -60,6 +61,8 @@ Route<dynamic> generateRoute(RouteSettings settings) {
       return MaterialPageRoute(builder: (context) => ClipRRectPage());
     case HERO_ROUTE:
       return MaterialPageRoute(builder: (context) => HeroPage());
+    case CUSTOM_PAINT_ROUTE:
+      return MaterialPageRoute(builder: (context) => CustomPaintPage());
     default:
       return MaterialPageRoute(builder: (context) => HomePage());
   }
