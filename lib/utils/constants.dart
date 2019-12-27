@@ -16,3 +16,4 @@ const INHERITED_MODEL_DESCRIPTION = "An InheritedWidget that's intended to be us
 const CLIP_R_RECT_DESCRIPTION = "A widget that clips its child using a rounded rectangle.";
 const HERO_DESCRIPTION = "A widget that marks its child as being a candidate for hero animations.";
 const CUSTOM_PAINT_DESCRIPTION = "A widget that provides a canvas on which to draw during the paint phase.";
+const TOOLTIP_DESCRIPTION = "A material design tooltip.\nTooltips provide text labels that help explain the function of a button or other user interface action.";

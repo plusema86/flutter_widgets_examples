@@ -18,6 +18,7 @@ import 'package:flutter_widgets_examples/sliver_app_bar_widget/sliver_app_bar_pa
 import 'package:flutter_widgets_examples/sliver_list_sliver_grid_widget/sliver_list_sliver_grid_page.dart';
 import 'package:flutter_widgets_examples/stream_builder_widget/stream_builder_widget.dart';
 import 'package:flutter_widgets_examples/table_widget/table_page.dart';
+import 'package:flutter_widgets_examples/tooltip_widget/tooltip_page.dart';
 import 'package:flutter_widgets_examples/utils/routing_constants.dart';
 import 'package:flutter_widgets_examples/wrap_widget/wrap_page.dart';
 
@@ -63,6 +64,8 @@ Route<dynamic> generateRoute(RouteSettings settings) {
       return MaterialPageRoute(builder: (context) => HeroPage());
     case CUSTOM_PAINT_ROUTE:
       return MaterialPageRoute(builder: (context) => CustomPaintPage());
+    case TOOLTIP_ROUTE:
+      return MaterialPageRoute(builder: (context) => TooltipPage());
     default:
       return MaterialPageRoute(builder: (context) => HomePage());
   }
