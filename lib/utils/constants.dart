@@ -17,3 +17,4 @@ const CLIP_R_RECT_DESCRIPTION = "A widget that clips its child using a rounded r
 const HERO_DESCRIPTION = "A widget that marks its child as being a candidate for hero animations.";
 const CUSTOM_PAINT_DESCRIPTION = "A widget that provides a canvas on which to draw during the paint phase.";
 const TOOLTIP_DESCRIPTION = "A material design tooltip.\nTooltips provide text labels that help explain the function of a button or other user interface action.";
+const FITTED_BOX_DESCRIPTION = "Scales and positions its child within itself according to fit.";

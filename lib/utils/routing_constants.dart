@@ -18,3 +18,4 @@ const String CLIP_R_RECT_ROUTE = 'clip_r_rect';
 const String HERO_ROUTE = 'hero';
 const String CUSTOM_PAINT_ROUTE = 'custom_paint';
 const String TOOLTIP_ROUTE = 'tooltip';
+const String FITTED_BOX_ROUTE = 'fitted_box';

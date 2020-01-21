@@ -6,6 +6,7 @@ import 'package:flutter_widgets_examples/custom_paint_widget/custom_paint_page.d
 import 'package:flutter_widgets_examples/expanded_widget/expanded_page.dart';
 import 'package:flutter_widgets_examples/fade_in_image_widget/fade_in_image_widget.dart';
 import 'package:flutter_widgets_examples/fade_transition_widget/fade_transition_page.dart';
+import 'package:flutter_widgets_examples/fitted_box_widget/fitted_box_page.dart';
 import 'package:flutter_widgets_examples/floating_action_button_widget/floating_action_button_page.dart';
 import 'package:flutter_widgets_examples/future_builder_widget/future_builder_page.dart';
 import 'package:flutter_widgets_examples/hero_widget/hero_page.dart';
@@ -66,6 +67,8 @@ Route<dynamic> generateRoute(RouteSettings settings) {
       return MaterialPageRoute(builder: (context) => CustomPaintPage());
     case TOOLTIP_ROUTE:
       return MaterialPageRoute(builder: (context) => TooltipPage());
+    case FITTED_BOX_ROUTE:
+      return MaterialPageRoute(builder: (context) => FittedBoxPage());
     default:
       return MaterialPageRoute(builder: (context) => HomePage());
   }
